@@ -17,3 +17,9 @@
 1. 点击“Clone or download”把这个项目的zip文件下载到本地并解压
 2. 地址栏输入chrome://extensions/，并跳转
 3. 点击“加载已解压的扩展程序”，选择本地的项目文件即可
+
+
+## 更新
+
+### 2019-07-23
+#### 请将background.js的地址修改为https://jsproxy-demo.tk
